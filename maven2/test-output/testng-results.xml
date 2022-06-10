@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="8" passed="5" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-02T12:44:50 IST" name="Suite1" finished-at="2022-06-02T12:45:42 IST" duration-ms="52106">
+    <groups>
+    </groups>
+    <test started-at="2022-06-02T12:44:50 IST" name="Test1" finished-at="2022-06-02T12:45:42 IST" duration-ms="52106">
+      <class name="testClasses.NewClassAmazon">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:44:50 IST" name="launchBrowser" finished-at="2022-06-02T12:44:52 IST" duration-ms="1764" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="CreatePomPage()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:44:52 IST" name="CreatePomPage" finished-at="2022-06-02T12:44:52 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatePomPage -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:44:52 IST" name="launchApplication" finished-at="2022-06-02T12:45:04 IST" duration-ms="12012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="VarifyCustomerservicetab()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:45:04 IST" name="VarifyCustomerservicetab" finished-at="2022-06-02T12:45:08 IST" duration-ms="4529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VarifyCustomerservicetab -->
+        <test-method is-config="true" signature="exit(org.testng.ITestResult)[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:45:08 IST" name="exit" finished-at="2022-06-02T12:45:08 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VarifyCustomerservicetab status=SUCCESS method=NewClassAmazon.VarifyCustomerservicetab()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:45:08 IST" name="launchApplication" finished-at="2022-06-02T12:45:12 IST" duration-ms="3686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="screenshot()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:45:12 IST" name="screenshot" finished-at="2022-06-02T12:45:13 IST" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method is-config="true" signature="exit(org.testng.ITestResult)[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:45:13 IST" name="exit" finished-at="2022-06-02T12:45:13 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=screenshot status=SUCCESS method=NewClassAmazon.screenshot()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:45:13 IST" name="launchApplication" finished-at="2022-06-02T12:45:15 IST" duration-ms="2838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="varifyfashiontab()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:45:15 IST" name="varifyfashiontab" finished-at="2022-06-02T12:45:22 IST" duration-ms="6196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyfashiontab -->
+        <test-method is-config="true" signature="exit(org.testng.ITestResult)[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:45:22 IST" name="exit" finished-at="2022-06-02T12:45:22 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=varifyfashiontab status=SUCCESS method=NewClassAmazon.varifyfashiontab()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:45:22 IST" name="launchApplication" finished-at="2022-06-02T12:45:24 IST" duration-ms="2638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="varifymobile()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:45:24 IST" name="varifymobile" finished-at="2022-06-02T12:45:27 IST" duration-ms="2994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifymobile -->
+        <test-method is-config="true" signature="exit(org.testng.ITestResult)[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:45:27 IST" name="exit" finished-at="2022-06-02T12:45:27 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=varifymobile status=SUCCESS method=NewClassAmazon.varifymobile()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:45:27 IST" name="launchApplication" finished-at="2022-06-02T12:45:31 IST" duration-ms="3991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="varifysellertab()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:45:31 IST" name="varifysellertab" finished-at="2022-06-02T12:45:33 IST" duration-ms="2180" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Amazon.in Bestsellers: The most popular items on Amazon] but found [Amazon.in Bestseller: The most popular items on Amazon]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Amazon.in Bestsellers: The most popular items on Amazon] but found [Amazon.in Bestseller: The most popular items on Amazon]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at testClasses.NewClassAmazon.varifysellertab(NewClassAmazon.java:64)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifysellertab -->
+        <test-method is-config="true" signature="exit(org.testng.ITestResult)[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:45:34 IST" name="exit" finished-at="2022-06-02T12:45:34 IST" duration-ms="602" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=varifysellertab status=FAILURE method=NewClassAmazon.varifysellertab()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:45:34 IST" name="launchApplication" finished-at="2022-06-02T12:45:36 IST" duration-ms="1555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="varifytodaysdealtab()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:45:36 IST" name="varifytodaysdealtab" finished-at="2022-06-02T12:45:41 IST" duration-ms="5353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifytodaysdealtab -->
+        <test-method is-config="true" signature="exit(org.testng.ITestResult)[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:45:41 IST" name="exit" finished-at="2022-06-02T12:45:41 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=varifytodaysdealtab status=SUCCESS method=NewClassAmazon.varifytodaysdealtab()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testClasses.NewClassAmazon@48ae9b55]" started-at="2022-06-02T12:45:41 IST" name="logout" finished-at="2022-06-02T12:45:42 IST" duration-ms="656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- testClasses.NewClassAmazon -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
